@@ -1,0 +1,20 @@
+head{
+	font-family: Byington, arial;
+}
+body{
+   font-family: Byington, arial; 
+}
+.menu{
+   background: #FF9900;
+}
+.menu td a{
+	text-decoration: none;
+	color: white;
+	display: black;
+}
+.menu td:hover{
+	background:#00CCCC 
+}
+.espacio{
+	margin-right: 5px;
+}
